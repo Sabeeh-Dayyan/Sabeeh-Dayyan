@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sabeeh Dayyan 👋</h1>
-<h3 align="center">Backend & AI Engineer · Python · Node.js · Computer Vision</h3>
+<h3 align="center">Full-Stack & AI Engineer · Python · Node.js · Kotlin/Android · Computer Vision</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sabeehdayyan"><img src="https://img.shields.io/badge/LinkedIn-sabeehdayyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,6 +16,7 @@
 - 🤖 I build **ML and Computer Vision models and deploy them to production**: virtual try-on, defect detection, vehicle analytics
 - 🛰️ Former Data Engineering intern at the **NCRA UAV Dependability Lab**, where I curated 10K+ labelled images and telemetry records for anomaly detection
 - 📋 Former Project Management intern at **CHI Technologies**, working in Agile/Scrum on Azure DevOps
+- 📱 Currently building **[ShiftMate](https://github.com/Sabeeh-Dayyan/ShiftMate-Showcase)**, a workforce app for shift-based teams (Android + Firebase)
 - 🔭 Looking for **backend / full-stack roles** in product-focused or AI-driven teams
 
 ---
@@ -24,18 +25,22 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🚗 **[VisionTrack: Vehicle Analytics](https://github.com/Sabeeh-Dayyan/VisionTrack)** | Real-time vehicle detection, multi-object tracking and line-crossing counts from traffic video, with a live dashboard and auto-generated reports | YOLOv8 · PyTorch · FastAPI · OpenCV |
-| 👕 **[MetaCart: AI Virtual Try-On](https://github.com/Sabeeh-Dayyan/MetaCart-Virtual-Try-On)** | Warps clothing onto user photos and 3D models through a diffusion-based try-on pipeline served over a REST API | PyTorch · FastAPI · Next.js · Three.js |
-| 🧱 **[SmartCrete: Cement Quality Detection](https://github.com/Sabeeh-Dayyan/SmartCrete)** | Computer vision pipeline that measures porosity in concrete surface images and predicts permeability and compressive strength | OpenCV · Scikit-learn · Flask |
-| 🏥 **[Healthcare Platform](https://github.com/Sabeeh-Dayyan/Healthcare-Website)** | Full-stack client platform with appointment booking, patient records, JWT auth and role-based access for 3 user types | React · Node.js · Express · MySQL |
-| 🎬 **[Movie Recommendation Engine](https://github.com/Sabeeh-Dayyan/Movie-Recommendation-System)** | Collaborative filtering with matrix factorisation on MovieLens 100K, served through a REST API | Scikit-learn · Pandas · Flask · MongoDB |
+| 📱 **[ShiftMate: Workforce App](https://github.com/Sabeeh-Dayyan/ShiftMate-Showcase)** | Rotas, open shifts and swaps, time clock with location check, timesheet approval and team news for cafés, restaurants and retail. Server-side roles and permissions with an audit log. [Demo APK](https://github.com/Sabeeh-Dayyan/ShiftMate-Showcase/releases/latest) | Kotlin · Jetpack Compose · Firebase · Cloud Functions |
+| 🚗 **VisionTrack: Vehicle Analytics** | Real-time vehicle detection, multi-object tracking and line-crossing counts from traffic video, with a live dashboard and auto-generated reports | YOLOv8 · PyTorch · FastAPI · OpenCV |
+| 👕 **MetaCart: AI Virtual Try-On** | Warps clothing onto user photos and 3D models through a diffusion-based try-on pipeline served over a REST API | PyTorch · FastAPI · Next.js · Three.js |
+| 🧱 **SmartCrete: Cement Quality Detection** | Computer vision pipeline that measures porosity in concrete surface images and predicts permeability and compressive strength | OpenCV · Scikit-learn · Flask |
+| 🏥 **[Healthcare Website](https://github.com/Sabeeh-Dayyan/Healthcare-Website)** | Responsive multi-page site for clinics and hospitals: services, departments, doctors and contact, built from reusable components | Next.js · TypeScript · Tailwind CSS |
+| 🎬 **[Movie Recommendation System](https://github.com/Sabeeh-Dayyan/Movie-Recommendation-System)** | Modular recommender with content-based filtering, an extensible collaborative-filtering layer and optional review sentiment analysis | Python · Pandas · Scikit-learn · NLTK |
 
 ---
 
 ### 🛠️ Tech stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,c,cpp" />
+
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
 
 **Backend & frameworks**<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nestjs,nextjs,react,prisma" />
